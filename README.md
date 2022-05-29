@@ -38,7 +38,9 @@
 
 ---
 
-<img align="center" src="https://media1.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="256px">
+<p align="center">
+    <img align="center" src="https://media1.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="256px">
+</p>
 
 ## Get in touch:
 
