@@ -1,6 +1,8 @@
 <img src="./images/intro.png">
 
-<img align="center" src="https://media1.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="128px">
+<p align="center">
+    <img align="center" src="https://media1.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="128px">
+</p>
 
 ## Technologies I've been working with recently:
 
