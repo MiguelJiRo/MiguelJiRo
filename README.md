@@ -44,6 +44,11 @@
 
 <table align="center" cellpadding="0" cellspacing="0" width="100%">
   <tr>
+  <td align="center">
+        <a href="https://migueljiro.github.io/PersonalPortfolio/" target="blank">
+            <img src="./images/mlogov2.png" width="48px" />
+        </a> 
+    </td>
     <td align="center">
         <a href="https://www.linkedin.com/in/miguel-jiroz/" target="blank">
             <img src="./images/linkedin.svg" width="48px" />
@@ -53,7 +58,7 @@
         <a href="mailto:migueljiroz@gmail.com" target="blank">
             <img src="./images/gmail.svg" width="48px" />
         </a> 
-    </td>
+    </td>  
   </tr>
 </table>
     
