@@ -49,7 +49,7 @@
 <table align="center" cellpadding="0" cellspacing="0" width="100%">
   <tr>
   <td align="center">
-        <a href="https://migueljiro.github.io/PersonalPortfolio/" target="blank">
+        <a href="https://migueljiroz.vercel.app" target="blank">
             <img src="./images/mlogov2.png" width="48px" />
         </a> 
     </td>
