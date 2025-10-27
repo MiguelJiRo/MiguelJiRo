@@ -5,6 +5,7 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 </div>
 
 <div align="center">
+  
 ### 💎 Frontend (Mi Pasión)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -39,6 +40,7 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
 </div>
 
 ## 📊 GitHub Stats
@@ -57,12 +59,13 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://migueljiroz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/miguel-jiroz/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueljiroz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://migueljiroz.vercel.app)
 
 </div>
 
     
+
 
 
