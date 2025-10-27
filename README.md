@@ -1,7 +1,9 @@
 <div align="center">
-👋 Hola, soy Miguel Jiménez
-Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
+  
+# 👋 Hola, soy Miguel Jiménez
+### Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Creando+experiencias+increíbles;Pixel+perfect+%F0%9F%8E%A8;Always+learning+new+tech" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -66,6 +68,7 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 </div>
 
     
+
 
 
 
