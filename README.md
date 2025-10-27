@@ -4,6 +4,7 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Creando+experiencias+increíbles;Pixel+perfect+%F0%9F%8E%A8;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
+<div align="center">
 ### 💎 Frontend (Mi Pasión)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -38,6 +39,7 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+</div>
 
 ## 📊 GitHub Stats
 
@@ -47,7 +49,7 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJiRo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiguelJiRo&theme=tokyonight&hide_border=true&background=0D1117)
+![Visitor Count](https://komarev.com/ghpvc/?username=MiguelJiRo&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
@@ -62,4 +64,5 @@ Frontend Developer | UI/UX Enthusiast | Creative Problem Solver
 </div>
 
     
+
 
