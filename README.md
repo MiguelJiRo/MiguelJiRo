@@ -75,8 +75,15 @@ const miguel = {
 <div align="center">
 
 <a href="https://github.com/MiguelJiRo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiguelJiRo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJiRo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelJiRo&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiguelJiRo&theme=tokyonight" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/MiguelJiRo">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelJiRo&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelJiRo&theme=tokyonight&utcOffset=2" />
 </a>
 
 <br /><br />
