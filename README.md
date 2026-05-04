@@ -31,8 +31,8 @@ const miguel = {
 
 <div align="center">
 
-<a href="https://github.com/MiguelJiRo/Convive"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp" alt="MiguelJiRo/Convive" width="48%" /></a>
-<a href="https://github.com/MiguelJiRo/Oposinator-TAI"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp" alt="MiguelJiRo/Oposinator-TAI" width="48%" /></a>
+<a href="https://github.com/MiguelJiRo/Convive"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&v=2" alt="MiguelJiRo/Convive" width="48%" /></a>
+<a href="https://github.com/MiguelJiRo/Oposinator-TAI"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&v=2" alt="MiguelJiRo/Oposinator-TAI" width="48%" /></a>
 
 <a href="https://github.com/MiguelJiRo/Anime-Lens"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp" alt="MiguelJiRo/Anime-Lens" width="48%" /></a>
 <a href="https://github.com/MiguelJiRo/Tech-dle"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp" alt="MiguelJiRo/Tech-dle" width="48%" /></a>
