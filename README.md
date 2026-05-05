@@ -34,10 +34,16 @@ const miguel = {
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
-
-[![MiguelJiRo/Convive](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&v=6)](https://github.com/MiguelJiRo/Convive)
-
-</td>
+      <table border="0" cellspacing="6" cellpadding="0">
+        <tr>
+          <td rowspan="2"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&part=main&v=6" alt="MiguelJiRo/Convive"></td>
+          <td><a href="https://github.com/MiguelJiRo/Convive"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&part=repo-btn&v=6" alt="View source on GitHub"></a></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/convive-ecosystem"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&part=web-btn&v=6" alt="Convive ecosystem on GitHub"></a></td>
+        </tr>
+      </table>
+    </td>
     <td valign="top">
       <table border="0" cellspacing="6" cellpadding="0">
         <tr>
