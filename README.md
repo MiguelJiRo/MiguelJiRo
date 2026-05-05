@@ -53,6 +53,9 @@ const miguel = {
       </table>
     </td>
   </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
       <table border="0" cellspacing="0" cellpadding="0">
@@ -77,6 +80,9 @@ const miguel = {
       </table>
     </td>
   </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
       <table border="0" cellspacing="0" cellpadding="0">
