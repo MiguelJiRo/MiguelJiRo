@@ -31,29 +31,14 @@ const miguel = {
 
 <div align="center">
 
-![MiguelJiRo/Convive](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&v=4)
+<a href="https://github.com/MiguelJiRo/Convive"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&v=3" alt="MiguelJiRo/Convive" width="48%" /></a>
+<a href="https://github.com/MiguelJiRo/Oposinator-TAI"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&v=3" alt="MiguelJiRo/Oposinator-TAI" width="48%" /></a>
 
-[Repo →](https://github.com/MiguelJiRo/Convive)
+<a href="https://github.com/MiguelJiRo/Anime-Lens"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp&v=3" alt="MiguelJiRo/Anime-Lens" width="48%" /></a>
+<a href="https://github.com/MiguelJiRo/Tech-dle"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp&v=3" alt="MiguelJiRo/Tech-dle" width="48%" /></a>
 
-![MiguelJiRo/Oposinator-TAI](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Oposinator-TAI) · [Live demo →](https://oposinator-tai.vercel.app)
-
-![MiguelJiRo/Anime-Lens](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Anime-Lens) · [Live demo →](https://anime-lens.vercel.app)
-
-![MiguelJiRo/Tech-dle](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Tech-dle) · [Live demo →](https://tech-dle.vercel.app)
-
-![MiguelJiRo/Pixel-Defense](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FPixel-Defense&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fpixel-defense.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Pixel-Defense) · [Live demo →](https://pixel-defense.vercel.app)
-
-![MiguelJiRo/Crypto-live-dashboard](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FCrypto-live-dashboard&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fcrypto-live-dashboard.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Crypto-live-dashboard) · [Live demo →](https://crypto-live-dashboards.vercel.app/)
+<a href="https://github.com/MiguelJiRo/Pixel-Defense"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FPixel-Defense&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fpixel-defense.webp&v=3" alt="MiguelJiRo/Pixel-Defense" width="48%" /></a>
+<a href="https://github.com/MiguelJiRo/Crypto-live-dashboard"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FCrypto-live-dashboard&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fcrypto-live-dashboard.webp&v=3" alt="MiguelJiRo/Crypto-live-dashboard" width="48%" /></a>
 
 </div>
 
@@ -61,13 +46,7 @@ const miguel = {
 
 <div align="center">
 
-<a href="https://github.com/MiguelJiRo">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelJiRo&theme=tokyonight" />
-</a>
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MiguelJiRo&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7" alt="GitHub Streak" />
+[![MiguelJiRo on GitHub](https://statsframe.vercel.app/api/card?user=MiguelJiRo&columns=2&modules=totals%2Crank%401%2Ctop-languages%401%7Edonut%2Ccontributions%401%7Ewave%2Cskyline%401)](https://github.com/MiguelJiRo)
 
 <br /><br />
 
