@@ -46,13 +46,7 @@ const miguel = {
 
 <div align="center">
 
-<a href="https://github.com/MiguelJiRo">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelJiRo&theme=tokyonight" />
-</a>
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MiguelJiRo&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=2F81F7" alt="GitHub Streak" />
+[![MiguelJiRo on GitHub](https://statsframe.vercel.app/api/card?user=MiguelJiRo&columns=2&modules=totals%2Crank%401%2Ctop-languages%401%7Edonut%2Ccontributions%401%7Ewave%2Cskyline%401)](https://github.com/MiguelJiRo)
 
 <br /><br />
 
