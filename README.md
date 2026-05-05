@@ -31,7 +31,6 @@ const miguel = {
 
 <div align="center">
 
-<<<<<<< chore/cards-split-layout
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
@@ -103,31 +102,6 @@ const miguel = {
     </td>
   </tr>
 </table>
-=======
-![MiguelJiRo/Convive](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Convive)
-
-![MiguelJiRo/Oposinator-TAI](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Oposinator-TAI) · [Live demo →](https://oposinator-tai.vercel.app)
-
-![MiguelJiRo/Anime-Lens](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Anime-Lens) · [Live demo →](https://anime-lens.vercel.app)
-
-![MiguelJiRo/Tech-dle](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Tech-dle) · [Live demo →](https://tech-dle.vercel.app)
-
-![MiguelJiRo/Pixel-Defense](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FPixel-Defense&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fpixel-defense.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Pixel-Defense) · [Live demo →](https://pixel-defense.vercel.app)
-
-![MiguelJiRo/Crypto-live-dashboard](https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FCrypto-live-dashboard&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fcrypto-live-dashboard.webp&v=4)
-
-[Repo →](https://github.com/MiguelJiRo/Crypto-live-dashboard) · [Live demo →](https://crypto-live-dashboards.vercel.app/)
->>>>>>> main
 
 </div>
 
