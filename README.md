@@ -31,14 +31,62 @@ const miguel = {
 
 <div align="center">
 
-<a href="https://github.com/MiguelJiRo/Convive"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&v=3" alt="MiguelJiRo/Convive" width="48%" /></a>
-<a href="https://github.com/MiguelJiRo/Oposinator-TAI"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&v=3" alt="MiguelJiRo/Oposinator-TAI" width="48%" /></a>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td rowspan="2"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&part=main" alt="MiguelJiRo/Convive"></td>
+    <td><a href="https://github.com/MiguelJiRo/Convive"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FConvive&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fconvive.webp&part=repo-btn" alt="View source on GitHub"></a></td>
+  </tr>
+</table>
 
-<a href="https://github.com/MiguelJiRo/Anime-Lens"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp&v=3" alt="MiguelJiRo/Anime-Lens" width="48%" /></a>
-<a href="https://github.com/MiguelJiRo/Tech-dle"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp&v=3" alt="MiguelJiRo/Tech-dle" width="48%" /></a>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td rowspan="2"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&part=main" alt="MiguelJiRo/Oposinator-TAI"></td>
+    <td><a href="https://github.com/MiguelJiRo/Oposinator-TAI"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&part=repo-btn" alt="View source on GitHub"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://oposinator-tai.vercel.app/"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FOposinator-TAI&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Foposinator-tai.webp&part=web-btn" alt="Open live site"></a></td>
+  </tr>
+</table>
 
-<a href="https://github.com/MiguelJiRo/Pixel-Defense"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FPixel-Defense&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fpixel-defense.webp&v=3" alt="MiguelJiRo/Pixel-Defense" width="48%" /></a>
-<a href="https://github.com/MiguelJiRo/Crypto-live-dashboard"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FCrypto-live-dashboard&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fcrypto-live-dashboard.webp&v=3" alt="MiguelJiRo/Crypto-live-dashboard" width="48%" /></a>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td rowspan="2"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp&part=main" alt="MiguelJiRo/Anime-Lens"></td>
+    <td><a href="https://github.com/MiguelJiRo/Anime-Lens"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp&part=repo-btn" alt="View source on GitHub"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://anime-lens.vercel.app/"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FAnime-Lens&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fanime-lens.webp&part=web-btn" alt="Open live site"></a></td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td rowspan="2"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp&part=main" alt="MiguelJiRo/Tech-dle"></td>
+    <td><a href="https://github.com/MiguelJiRo/Tech-dle"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp&part=repo-btn" alt="View source on GitHub"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://tech-dle.vercel.app/"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FTech-dle&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Ftech-dle.webp&part=web-btn" alt="Open live site"></a></td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td rowspan="2"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FPixel-Defense&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fpixel-defense.webp&part=main" alt="MiguelJiRo/Pixel-Defense"></td>
+    <td><a href="https://github.com/MiguelJiRo/Pixel-Defense"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FPixel-Defense&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fpixel-defense.webp&part=repo-btn" alt="View source on GitHub"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://pixel-defense.vercel.app/"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FPixel-Defense&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fpixel-defense.webp&part=web-btn" alt="Open live site"></a></td>
+  </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td rowspan="2"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FCrypto-live-dashboard&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fcrypto-live-dashboard.webp&part=main" alt="MiguelJiRo/Crypto-live-dashboard"></td>
+    <td><a href="https://github.com/MiguelJiRo/Crypto-live-dashboard"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FCrypto-live-dashboard&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fcrypto-live-dashboard.webp&part=repo-btn" alt="View source on GitHub"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://crypto-live-dashboards.vercel.app/"><img src="https://repoframe.vercel.app/api/card?repo=MiguelJiRo%2FCrypto-live-dashboard&image=https%3A%2F%2Fraw.githubusercontent.com%2FMiguelJiRo%2FMiguelJiRo%2Fmain%2Fimages%2Fcrypto-live-dashboard.webp&part=web-btn" alt="Open live site"></a></td>
+  </tr>
+</table>
 
 </div>
 
